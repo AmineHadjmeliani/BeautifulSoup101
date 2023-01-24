@@ -1,6 +1,6 @@
-Web Scraping Using beautifulsoup 
+## Web Scraping Using beautifulsoup 
 
-BeautifulSoup is a powerful library for web scraping in Python. It allows you to easily navigate, search, and modify the elements of an HTML or XML document. Here is a tutorial that covers the basics of using BeautifulSoup:
+### BeautifulSoup is a powerful library for web scraping in Python. It allows you to easily navigate, search, and modify the elements of an HTML or XML document. Here is a tutorial that covers the basics of using BeautifulSoup:
 
 * Installation: You can install BeautifulSoup using pip by running pip install beautifulsoup4.
 
